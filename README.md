@@ -1,3 +1,6 @@
+This is a fork of express-generator for personal use so that I can generate apps based on my preferred structure.
+
+
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
 [Express'](https://www.npmjs.com/package/express) application generator.
